@@ -28,6 +28,7 @@ body {
     width: 500%;
     height: 50%;
     font-weight: 800;
+    text-align: justify;
 
 
 }
@@ -59,4 +60,28 @@ section {
     padding: 50px 50px;
     margin: 20px 60px;
     background-size: cover;
+}
+
+.new {
+    background-image: url(image/fularin.jpg);
+    background-repeat: no-repeat;
+    padding: 50px 50px;
+    margin: 20px 60px;
+    background-size: cover;
+}
+
+.p1 {
+    color: aliceblue;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 30px;
+    margin: 20px 10px 50px;
+    width: 500%;
+    height: 50%;
+    font-weight: 800;
+    text-align: justify;
+
+
 }
