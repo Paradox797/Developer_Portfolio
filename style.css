@@ -27,6 +27,7 @@ body {
   height: 50%;
   font-weight: 800;
   text-align: justify;
+  color: white;
 }
 
 .p_img {
@@ -88,6 +89,7 @@ body {
 .flexible {
   display: flex;
 }
+
 .half_width {
   width: 40%;
   height: 50%;
@@ -100,6 +102,7 @@ body {
   border-left: 10px solid;
   border-image: linear-gradient(blue, violet, cyan);
   border-image-slice: 1;
+  text-align: justify;
 }
 .Ex {
   background-image: url(images/exp-bg.png);
@@ -109,4 +112,5 @@ body {
 }
 footer p {
   text-align: center;
+  color: darkmagenta;
 }
